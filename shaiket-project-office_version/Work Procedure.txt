@@ -1,0 +1,7 @@
+>> vue create shaiket-project-office_version
+>> Firebase
+	> Project create
+	> DB create
+	> Storage
+>> vue add vuetify
+>> npm install firebase
